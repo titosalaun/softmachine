@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Rotation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Images" transform="translate(-155.000000, -315.000000)">
+            <g id="Images_bar" transform="translate(0.000000, 88.000000)">
+                <g id="Images" transform="translate(93.000000, 17.000000)">
+                    <g id="Rotation-+-flip" transform="translate(10.000000, 207.000000)">
+                        <g id="Flip" transform="translate(5.000000, 0.000000)">
+                            <g id="Rotation" transform="translate(54.216506, 8.125000) rotate(-120.000000) translate(-54.216506, -8.125000) translate(49.216506, 1.625000)">
+                                <polygon id="Triangle-2-Copy-3" fill="#4A4A4A" points="1.66666667 9.83333333 5 12.1666667 5 7.5"></polygon>
+                                <path d="M5,10 C7.76142375,10 10,7.76142375 10,5 C10,2.23857625 7.76142375,0 5,0 C2.23857625,0 0,2.23857625 0,5" id="Oval-5" stroke="#4A4A4A"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

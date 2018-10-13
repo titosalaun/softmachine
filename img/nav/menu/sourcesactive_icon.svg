@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="28px" viewBox="0 0 24 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Picto</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sources" transform="translate(-27.000000, -114.000000)" fill="#FFFFFF">
+            <g id="Sources_bar" transform="translate(0.000000, 90.000000)">
+                <g id="Sources_btn_active">
+                    <g id="Picto" transform="translate(27.000000, 24.000000)">
+                        <polygon id="Fill-1" points="17.0734018 14.5625495 18.8643829 14.5625495 18.8643829 0.0856013971 17.0734018 0.0856013971"></polygon>
+                        <polygon id="Fill-2" points="12 9.86041814 17.9688923 15.8293105 23.8254006 9.97190672 22.5591769 8.70568307 17.9688923 13.2959677 13.2662237 8.59374675"></polygon>
+                        <polygon id="Fill-1" points="5.07340176 19.0625495 6.86438288 19.0625495 6.86438288 4.5856014 5.07340176 4.5856014"></polygon>
+                        <polygon id="Fill-2" points="0 14.3604181 5.96889232 20.3293105 11.8254006 14.4719067 10.5591769 13.2056831 5.96889232 17.7959677 1.26622365 13.0937467"></polygon>
+                        <polygon id="Path-2" fill-rule="nonzero" points="3 28 21.1406912 28 21.1406912 26 3 26"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

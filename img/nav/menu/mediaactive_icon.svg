@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="24px" viewBox="0 0 30 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>IMG icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sources" transform="translate(-25.000000, -434.000000)" stroke="#FFFFFF">
+            <g id="MENU" transform="translate(0.000000, 90.000000)">
+                <g id="Images" transform="translate(0.000000, 320.000000)">
+                    <g id="IMG-icon" transform="translate(26.000000, 25.000000)">
+                        <polygon id="Fill-2" stroke-width="1.5" points="0.142816628 22.0501695 28.1924376 22.0501695 28.1924376 0.5 0.142816628 0.5"></polygon>
+                        <path d="M0.0956164633,0.699081263 L28.1344366,22.0813164" id="Path-5" stroke-width="0.5"></path>
+                        <path d="M0.0956164633,0.699081263 L28.1344366,22.0813164" id="Path-5" stroke-width="0.5" transform="translate(14.115027, 11.390199) scale(1, -1) translate(-14.115027, -11.390199) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

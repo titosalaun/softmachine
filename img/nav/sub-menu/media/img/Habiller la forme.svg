@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Habiller la forme</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Images" transform="translate(-157.000000, -187.000000)" fill="#4A4A4A">
+            <g id="Images_bar" transform="translate(0.000000, 88.000000)">
+                <g id="Images" transform="translate(93.000000, 17.000000)">
+                    <g id="Text-Wrapping" transform="translate(10.000000, 80.000000)">
+                        <g id="Habiller-la-forme" transform="translate(54.000000, 2.000000)">
+                            <rect id="Rectangle-5-Copy-4" x="0" y="0" width="12" height="1"></rect>
+                            <rect id="Rectangle-5-Copy-5" x="0" y="3" width="12" height="1"></rect>
+                            <rect id="Rectangle-5-Copy-6" x="0" y="6" width="12" height="1"></rect>
+                            <rect id="Rectangle-5-Copy-7" x="0" y="9" width="12" height="1"></rect>
+                            <circle id="Oval-4" stroke="#D8D8D8" stroke-width="0.6" cx="6" cy="5" r="3"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

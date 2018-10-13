@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Drop Cap_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Paragraph" transform="translate(-108.000000, -269.000000)" fill="#4A4A4A">
+            <g id="Paragraph_bar" transform="translate(0.000000, 88.000000)">
+                <g id="Default_Style" transform="translate(93.000000, 17.000000)">
+                    <g id="Options" transform="translate(10.000000, 56.000000)">
+                        <g id="Drop-Cap" transform="translate(0.000000, 106.000000)">
+                            <g id="Drop-Cap_icon" transform="translate(5.000000, 2.000000)">
+                                <rect id="Rectangle-5-Copy-4" x="5" y="0" width="7" height="1"></rect>
+                                <rect id="Rectangle-5-Copy-5" x="5" y="3" width="7" height="1"></rect>
+                                <rect id="Rectangle-5-Copy-6" x="0" y="6" width="12" height="1"></rect>
+                                <rect id="Rectangle-5-Copy-7" x="0" y="9" width="12" height="1"></rect>
+                                <path d="M2.9972752,4 L2.59945504,2.89373297 L1.07629428,2.89373297 L0.686648501,4 L0,4 L1.49046322,0 L2.19891008,0 L3.6893733,4 L2.9972752,4 Z M2.42779292,2.33242507 L2.05449591,1.2479564 C2.02724782,1.17529482 1.98955519,1.06085455 1.94141689,0.904632153 C1.8932786,0.748409755 1.86012725,0.633969482 1.84196185,0.561307902 C1.79291529,0.784742262 1.72116305,1.02906316 1.626703,1.29427793 L1.26702997,2.33242507 L2.42779292,2.33242507 Z" id="A"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
